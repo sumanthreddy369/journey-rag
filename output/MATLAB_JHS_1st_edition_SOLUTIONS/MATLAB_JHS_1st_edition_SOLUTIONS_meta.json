@@ -1,0 +1,113 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Problem 7-A.8",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": [
+        [
+          72.0,
+          87.72149658203125
+        ],
+        [
+          146.39520263671875,
+          86.8359375
+        ],
+        [
+          146.39520263671875,
+          99.72149658203125
+        ],
+        [
+          72.0,
+          99.72149658203125
+        ]
+      ]
+    },
+    {
+      "title": "Problem 7-A.9",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": [
+        [
+          71.61328125,
+          370.08135986328125
+        ],
+        [
+          146.39520263671875,
+          369.140625
+        ],
+        [
+          146.39520263671875,
+          382.08135986328125
+        ],
+        [
+          71.61328125,
+          382.08135986328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 201,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 275,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Span",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\MATLAB_JHS_1st_edition_SOLUTIONS"
+}
